@@ -1,0 +1,29 @@
+{
+  "name": "fragcap",
+  "owner": {
+    "name": "fragcap"
+  },
+  "metadata": {
+    "description": "Knowledge capsule sharing plugins for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "fragcap",
+      "source": {
+        "source": "github",
+        "repo": "fragcap/plugin"
+      },
+      "description": "Distills your explorations into shareable capsules. Auto-captures what you learned, pushes to GitHub Gist, and discovers relevant capsules from other users.",
+      "version": "0.2.0",
+      "author": {
+        "name": "fragcap"
+      },
+      "homepage": "https://github.com/fragcap/fragcap",
+      "repository": "https://github.com/fragcap/plugin",
+      "license": "MIT",
+      "keywords": ["knowledge", "capsule", "gist", "sharing", "discovery"],
+      "category": "productivity",
+      "tags": ["knowledge-sharing", "debugging", "capsules", "gist"]
+    }
+  ]
+}
