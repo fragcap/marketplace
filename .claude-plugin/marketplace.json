@@ -10,8 +10,8 @@
     {
       "name": "fragcap",
       "source": {
-        "source": "github",
-        "repo": "fragcap/plugin"
+        "source": "url",
+        "url": "https://github.com/fragcap/plugin.git"
       },
       "description": "Distills your explorations into shareable capsules. Auto-captures what you learned, pushes to GitHub Gist, and discovers relevant capsules from other users.",
       "version": "0.2.0",
