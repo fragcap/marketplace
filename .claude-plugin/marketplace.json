@@ -18,7 +18,7 @@
       "author": {
         "name": "fragcap"
       },
-      "homepage": "https://github.com/fragcap/fragcap",
+      "homepage": "https://github.com/fragcap/plugin",
       "repository": "https://github.com/fragcap/plugin",
       "license": "MIT",
       "keywords": ["knowledge", "capsule", "gist", "sharing", "discovery"],
